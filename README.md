@@ -1,5 +1,11 @@
-# Welcome to GitHub Desktop!
+# Bem vindo à minha primeira calculadora!
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+Este é o meu primeiro projeto no GitHub! Uma calculadora simples desenvolvida para praticar conceitos de programação.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Funcionalidades
+
+Operações básicas: adição, subtração, multiplicação e divisão.
+
+Interface simples e intuitiva.
+
+Suporte a números decimais.
