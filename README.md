@@ -10,4 +10,4 @@ Interface simples e intuitiva.
 
 Suporte a números decimais.
 
-Feito um comentário detalhado sobre como executar abaixo deste arquivo.
+Feito um comentário detalhado sobre como executar abaixo deste arquivo. Vide coment_tarefa.sh
