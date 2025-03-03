@@ -9,3 +9,5 @@ Operações básicas: adição, subtração, multiplicação e divisão.
 Interface simples e intuitiva.
 
 Suporte a números decimais.
+
+Feito um comentário detalhado sobre como executar abaixo deste arquivo.
